@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useEffect } from "react";
 import { api } from "../../services/api"
 import { Container } from "./styles";
@@ -9,6 +10,11 @@ export function TransactionsTable() {
             .then(data => console.log(data))
     }, []);
 
+=======
+import { Container } from "./styles";
+
+export function TransactionsTable() {
+>>>>>>> 7e74b6b5ac63eaa83313ae412decc6f5fc68f177
     return (
         <Container>
             <table>
