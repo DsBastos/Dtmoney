@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { useState } from "react";
 import Modal from "react-modal";
 import { Dashboard } from "./components/Dashboard";
@@ -28,17 +27,6 @@ export function App() {
         isOpen={isNewTransactionModalOpen}
         onRequestClose={handleCloseNewTransactionModal}
       />
-=======
-import { Dashboard } from "./components/Dashboard";
-import { Header } from "./components/Header";
-import { GlobalStyle } from "./styles/global";
-
-export function App() {
-  return (
-    <>
-      <Header />
-      <Dashboard />
->>>>>>> 7e74b6b5ac63eaa83313ae412decc6f5fc68f177
       <GlobalStyle />
     </>
   );

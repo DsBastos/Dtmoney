@@ -55,7 +55,6 @@ export const GlobalStyle = createGlobalStyle`
         cursor: not-allowed;
     }
 
-<<<<<<< HEAD
     .react-modal-overlay {
         background: rgba(0, 0, 0, 0.5);
 
@@ -92,6 +91,4 @@ export const GlobalStyle = createGlobalStyle`
             filter: brightness(0.8);
         }
     }
-=======
->>>>>>> 7e74b6b5ac63eaa83313ae412decc6f5fc68f177
 `

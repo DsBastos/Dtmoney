@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-<<<<<<< HEAD
 import { createServer } from 'miragejs'
 import { App } from './App';
 
@@ -21,10 +20,7 @@ createServer({
   }
 })
 
-=======
-import { App } from './App';
 
->>>>>>> 7e74b6b5ac63eaa83313ae412decc6f5fc68f177
 ReactDOM.render(
   <React.StrictMode>
     <App />
