@@ -47,3 +47,7 @@
 [0327/231150.062:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
 [0328/004948.544:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O encaminhamento (pipe) foi terminado. (0x6D)
 [0328/004948.546:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
+[0328/170150.835:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O encaminhamento (pipe) foi terminado. (0x6D)
+[0328/170150.877:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
+[0328/173748.934:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: O encaminhamento (pipe) foi terminado. (0x6D)
+[0328/173748.936:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
